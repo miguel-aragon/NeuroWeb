@@ -4,7 +4,9 @@ For this project I am using the Bolshoi simulation, a very large simulation of a
 
 http://hipacc.ucsc.edu/Bolshoi.html
 
-We already have density fields and the network of filaments/walls from an old project.
+We already have density fields and the network of filaments/walls from an old project. 
+
+Note that the data is 3D (data cubes). For clarity I will be showing projections over a part of the simulation box.
 
 ## Density
 The figure below shows a projection of the density field. Bright areas are dense clusters of galaxies. Note how the clusters are interconnected by a network of filaments.
