@@ -1,10 +1,10 @@
 # Data description (cosmic web)
 
-For this project I am using the Bolshoi simulation, a very large simulation of a significant volume of the Universe. This is the website of the simulation, it is not relevant for the discussion but if you are interested (there are some nice images/videos showing various aspects of the simulation:
+For this project I am using the Bolshoi simulation, a very large simulation of a significant volume of the Universe. This is the website of the simulation, it is not relevant for the discussion but if you are interested (there are some nice images/videos showing various aspects of the simulation):
 
 http://hipacc.ucsc.edu/Bolshoi.html
 
-We already have density fields and the network of filaments form an old project. The data consist of cubes of 256x256x256 voxels containing different spects of the the density field. 
+We already have density fields and the network of filaments/walls from an old project.
 
 ## Density
 The figure below shows a projection of the density field. Bright areas are dense clusters of galaxies. Note how the clusters are interconnected by a network of filaments.
