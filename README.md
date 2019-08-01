@@ -25,6 +25,6 @@ http://adsabs.harvard.edu/abs/2010ApJ...723..364A
 ![picture](images/bolshoi_test_0_filaments.png)
 
 ## Cosmic neurons
-Here we see only very dense regions (roughly corresponding to clusters) and on top the network of filaments.
+Here we see the clusters and filaments together
 
 ![picture](images/bolshoi_test_0_neurons.png)
